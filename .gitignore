@@ -1,0 +1,12 @@
+# Archivos de respaldo y autoguardado de MATLAB
+*.asv
+*~
+
+# Archivos de caché de Simulink (evita subir archivos basura muy pesados)
+slprj/
+*.slxc
+*.autosave
+
+# Archivos compilados y binarios
+*.mex*
+*.mat
