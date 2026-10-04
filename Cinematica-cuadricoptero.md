@@ -17,3 +17,12 @@ Se debe de definir esta orientación para saber cual es el frente ya que en cada
   <img src="imagenes/DroneConf.png" alt="Configuraciones de vuelo" width="500">
 </div>
 
+De estas configuraciones se trabajará con la forma en "+" ya que la matemática es más digerible y no es complicado ir de esa configuración a la configuración en "X".
+
+## Principio de funcionamiento
+
+Para que el cuadricóptero vuele es necesario que dos de sus motores giren en el sentido de las manesillas del reloj (CW) y los otros dos en contra de las manesillas del reloj (CCW) intercaladamente, como se observa en la imagen.
+
+<div align="center">
+  <img src="imagenes/DroneGiro.png" alt="Configuraciones de vuelo" width="500">
+</div>
