@@ -26,3 +26,15 @@ Para que el cuadricóptero vuele es necesario que dos de sus motores giren en el
 <div align="center">
   <img src="imagenes/DroneGiro.png" alt="Configuraciones de vuelo" width="500">
 </div>
+
+Con esto se logra un equilibrio de momentos lo cual es necesario para la estabilidad de vuelo del dron.
+
+## Movimientos del Cuadricóptero
+* **Movimiento en el eje Z**: Para que el dron se eleve, baje o se mantenga volando es necesario que las velocidades de giro de los motores sean iguales. El dron se moverá en el eje Z dependiendo de la velocidad de giro de la _Posición de Hover_ (o posición estacionaria), cuando las velocidades sean mayores a este humbral el dron se elevará y cuando sean menores el dron bajará.
+
+* **Movimientos en los ejes X y Y**: Para mover el dron hacia adelante, atrás, izquierda o derecha, la velocidad de los motores debe ajustarse de forma coordinada. Los motores laterales, que son perpendiculares a la dirección a la que se quiere ir, mantienen su velocidad normal (flecha azul), igual que cuando el dron está suspendido en el aire (hover). Por otro lado, el motor trasero, que se encuentra opuesto a la dirección del movimiento, debe girar más rápido (flecha roja) para levantar esa parte del dron; mientras que el motor delantero, que apunta hacia donde se quiere ir, gira más lento (flecha verde) para bajar esa parte. Al subir la parte trasera y bajar la delantera, el dron se inclina, y esta inclinación aerodinámica es exactamente lo que lo empuja hacia la dirección deseada.
+
+<div align="center">
+  <img src="imagenes/DroneDirecciones.png" alt="Configuraciones de vuelo" width="500">
+</div>
+
