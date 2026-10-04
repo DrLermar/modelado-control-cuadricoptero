@@ -2,7 +2,9 @@
 
 Los cuadricópteros o drones están compuestos por un cuarpo principal, motores sin escobillas y propelas o hélices.
 
-![Cuadricóptero y sus partes](imagenes/Drone.png)
+<div align="center">
+  <img src="imagenes/Drone.png" alt="Cuadricóptero y sus partes" width="500">
+</div>
 
 ## Configuraciones
 Existen dos configuraciones principales para el manejo de un dron:
