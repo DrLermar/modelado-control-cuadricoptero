@@ -47,3 +47,6 @@ Con esto se logra un equilibrio de momentos lo cual es necesario para la estabil
 </div>
 
 Estos movimientos principales se pueden combinar para generar movimientos complejos como subir y rotar en un solo movimiento.
+
+## Cinemática del cuerpo rígido
+
