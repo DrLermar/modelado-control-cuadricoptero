@@ -13,4 +13,7 @@ Existen dos configuraciones principales para el manejo de un dron:
 
 Se debe de definir esta orientación para saber cual es el frente ya que en cada caso el control de los motores es diferente.
 
-![Cuadricóptero y sus partes](imagenes/DroneConf.png)
+<div align="center">
+  <img src="imagenes/DroneConf.png" alt="Configuraciones de vuelo" width="500">
+</div>
+
