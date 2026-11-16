@@ -50,3 +50,12 @@ Estos movimientos principales se pueden combinar para generar movimientos comple
 
 ## Cinemática del cuerpo rígido
 
+Se tiene un cuerpo rígido referenciado desde un marco de referencia inercial que se relaciona por medio de un vector (***d***) al marco de referencia del centro de masa del cuerpo.
+
+<div align="center">
+  <img src="imagenes/CuerpoRigido.png" alt="Giros" width="500">
+</div>
+
+Con esto se puede representar la Posición y Orientación de un cuerpo.
+
+$$
